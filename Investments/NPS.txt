@@ -1,0 +1,86 @@
+Account
+---
+Indian citizen can open an account between 18-65 years
+1 NPS account per individual
+No joint NPS account 
+Can open online too with central record keeping agency
+A/C Opening 500/-
+Every Year - 500/- minimum transaction
+Other charges - Expense Ratio, Fund Management Fee
+
+Account Types
+---
+Tier 1
+Retirement Account
+Tax Benefit
+Lock-in till 60 years
+
+Tier 2 (only with Tier 1)
+Saving Cum Investment Account
+No Tax Benefit
+
+Key Entities
+---
+Trustee Bank = Axis Bank Only who collects funds
+Pension Funds = Public and Private Sector - who invests money
+Custodian = Stock Holding Corporation of India Limited (SHCIL) who holds assets 
+NPS Trust = Overseer 
+Annuity Service Provider = Public and Private Sector who pays out pension
+
+Pension Funds
+---
+LIC PF
+SBI PF
+UTI Retirement Solutions
+HDFC Pension Management
+ICICI Prudential PF Management
+Adiya Birla Sunlife Pension Management
+
+Annuity Service Providers
+---
+LIC
+SBI Life Insurance
+ICICI Prudential Life Insurance
+HDFC Standard Life Insurance
+Bajaj Allianz Life Insurance
+India First Life Insurance
+Star Union Daiichi Life Insurance
+
+Payout
+---
+Annuity means pension (regular payout) 
+Partial withdrawal only after 3 years
+Before age of 60 years, up to 20% of corpus can be withdrawn in lumpsum and balance needs to be invested in annuity
+At age of 60 years, up to 60% of corpus can be withdrawn in lumpsum and balance needs to be invested in annuity
+Exit option opens after 10 years of opening of NPS account
+Subscriber can defer the decision of lump sum withdrawal for 10 years
+ 
+Investment
+---
+Types of Investments: E = Equity C = Corporate Bonds G = Govt Securities A = Alt Investment
+Investment choices 
+Auto -> Aggresive Moderate Conservative
+Active -> 75% max in E up to 50 years of age; 100% in C/G; 5% max in A
+Can change between auto and active choice twice a year 
+Can change in-between various auto choice options twice a year 
+Can change pension fund once every year
+Subscriber can extend the contributing age to 70 years if he doesn't want to extend by 60 years
+Subscriber can defer the decision to invest in annuity for 3 years
+Employee : Employer ratio can be unequal for salary individual
+
+Taxation
+---
+Taxation EEE (earlier) > EET (now)
+80CCD(1) under 80C - up to 1.5 lakhs
+80CCD(1B) - up to 50K
+80CCD(2) - employers contribution upto 10% of your basic+da
+Pension gets taxed as per slab rates
+
+Links
+---
+https://www.pfrda.org.in/index.cshtml
+https://npstrust.org.in/
+https://www.youtube.com/watch?v=T_NIXo3q09c (CA Rachana)
+https://enps.nsdl.com/eNPS/NationalPensionSystem.html
+
+
